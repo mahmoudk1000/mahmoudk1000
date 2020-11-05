@@ -1,10 +1,2 @@
-## Hey Folks...
-
-I am
-
-<p align="center">
- <img src="https://github.com/Mahmoudk1000/Mahmoudk1000/blob/master/Mahmoud.jpg" >
-
-![Mahmoud's github stats](https://github-readme-stats.vercel.app/api?username=Mahmoudk1000&show_icons=true&count_private=true)
-
-</p>
+<p align="center"><img src="https://github.com/Mahmoudk1000/Mahmoudk1000/blob/master/Mahmoud.jpg" alt="Hello folks" /><br>
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoudk1000&show_icons=true&count_private=true&title_color=333&icon_color=333" alt="mahmoudk1000" />
