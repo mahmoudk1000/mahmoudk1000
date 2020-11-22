@@ -1,2 +1,2 @@
-<p align="center"><img src="https://github.com/Mahmoudk1000/Mahmoudk1000/blob/master/Mahmoud.svg" /><br>
-<img src="https://github-readme-stats.vercel.app/api?username=mahmoudk1000&show_icons=true&count_private=true&title_color=333&icon_color=333" alt="mahmoudk1000" />
+# Hello, I'm
+<p align="center"><img src="https://github.com/Mahmoudk1000/Mahmoudk1000/blob/master/Mahmoud.svg" /><p>
