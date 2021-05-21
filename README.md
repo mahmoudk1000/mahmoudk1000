@@ -14,5 +14,4 @@ I mostly mess around to learn new stuff. I speak Arabic, English and learning Ge
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mahmoudk1000.mahmoudk1000)
 
-![Mahmoud Ayman Github
-Stats](https://github-readme-stats.vercel.app/api?username=mahmoudk1000&show_icons=true)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mahmoudk1000&theme=nord&background=121212&border=1f1f1f&stroke=CACACA&ring=9dacde&fire=f7afc0&currStreakNum=F0F0F0&sideNums=E7E7E7E7&currStreakLabel=ffffff&sideLabels=ffffff&dates=8A98AC)](https://git.io/streak-stats)
