@@ -1,5 +1,5 @@
 👋 Hi there! I'm Mahmoud (or better known as mahmoudk1000 on the internet),
-CS student, Egyption, Android developer kinda, junior programmer, linux Enthusiastic and I love to learn new things.
+CS student, Egyption, Android developer kinda, junior programmer, Gnu/Linux and FOSS Enthusiastic and I like to learn new things.
 I mostly mess around to learn new stuff. I speak Arabic, English and learning German.
 
 **📫 You can reach me on:**
