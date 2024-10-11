@@ -1,4 +1,4 @@
-## 👨‍💻 Aspiring DevOps Engineer | Open Source Advocate
+## 👨‍💻 DevOps Engineer | Open Source Advocate
 
 👋 Hi there! I'm Mahmoud (or better known as `mahmoudk1000` on the internet), Egyptian, GNU/Linux Enthusiast and FOSS Advocate, who love diving into new things. I learn by playing around with different technologies. I can chat in Arabic, English and German too.
 
