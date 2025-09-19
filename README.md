@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m passionate about **DevOps**, **cloud-native 
 
 - DevOps & SRE
 - Automation
-- Open Source Advocacy
+- Open Source
 - Cloud
 
 ## 🌐 Connect with Me
